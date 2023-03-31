@@ -7,8 +7,8 @@ Laravel 9.0
 
 Inicio
 
-composer update
-Criar o .env
+composer update/
+Criar o .env/
 php artisan key:generate
 
 ## Rodar a migrate, seed
